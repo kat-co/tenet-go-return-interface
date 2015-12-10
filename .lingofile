@@ -1,0 +1,7 @@
+language = "go"
+owner = "katco"
+name = "tenet_go_return_interface"
+
+[docker]
+  build=false
+  overwrite_dockerfile=true
